@@ -12,7 +12,7 @@
 	<artifactId>valaxy</artifactId>
 	<version>2.0-RELEASE</version>
 	<packaging>war</packaging>
-	<name>valaxy</name>
+	<name>valaxy-sonar</name>
 	<description>Valaxy DevOps project for Spring Boot</description>
 
 	<properties>
